@@ -22,12 +22,12 @@ public class LoginPageObjects extends AbstractPage {
         isControlDisplayed(driver, LoginPageUI.EMAIL_ERROR_MESSAGE);
     }
 
-    public void inputInvalidEmail(String email) {
+    public void inputEmail(String email) {
 
         sendkeyToElement(driver, LoginPageUI.EMAIL_TEXTBOX, email);
     }
 
-    public void inputInvalidPassword(String password) {
+    public void inputPassword(String password) {
 
         sendkeyToElement(driver, LoginPageUI.PASSWORD_TEXTBOX, password);
     }
@@ -38,5 +38,8 @@ public class LoginPageObjects extends AbstractPage {
         String actual = getTextElement(driver, LoginPageUI.LOGIN_WAS_UNSUCCESSFULL_MESSAGE);
         Assert.assertEquals(actual, expected);
    }
-}
+
+    }
+
+
 

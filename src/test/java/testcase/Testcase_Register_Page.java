@@ -167,6 +167,7 @@ public class Testcase_Register_Page extends BaseTest {
 
         logger.info("Step 06: Input ConfirmPassword");
         registerPageObjects.inputConfirmPassword(DataTests.otherconfirmpassword);
+        registerPageObjects.clickToRegisterButton();
 
         logger.info("Step07: Verify Error ConfirmPassword Message");
         registerPageObjects.verifyConfirmPasswordErrorMessage(DataTests.confirmpassworderrormessage);
