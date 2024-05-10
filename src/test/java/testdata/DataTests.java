@@ -9,7 +9,7 @@ public class DataTests extends AbstractPage {
     public static final String invalidpassword = "alo";
     //Login Page Messages
     public static final String loginwasunsuccessfullmessage = "Login was unsuccessful. Please correct the errors and try again.\n"+ "No customer account found";
-
+    public static final String loginwithwrongemailiderrormessage = "Login was unsuccessful. Please correct the errors and try again.\n" + "The credentials provided are incorrect";
     //Register Page
     public static final String firstname = "Linh";
     public static final String lastname = "Rose";
@@ -17,6 +17,7 @@ public class DataTests extends AbstractPage {
     public static final String otherconfirmpassword = "alo123";
     public static final String email = "alo" + randomNumber() + "@gmail.com";
     public static final String validemail = email;
+    public static final String emailNotExist = "lingbi@gmail.com";
 
 
 

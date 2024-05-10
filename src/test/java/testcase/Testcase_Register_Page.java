@@ -167,6 +167,7 @@ public class Testcase_Register_Page extends BaseTest {
 
         logger.info("Step 06: Input ConfirmPassword");
         registerPageObjects.inputConfirmPassword(DataTests.otherconfirmpassword);
+        registerPageObjects.clickToRegisterButton();
 
         // Them step click vao Register button o day
         // Vi trong behavior la nhap confirm password xong hover ra khoi textbox thi moi hien thi error message
