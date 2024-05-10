@@ -169,10 +169,6 @@ public class Testcase_Register_Page extends BaseTest {
         registerPageObjects.inputConfirmPassword(DataTests.otherconfirmpassword);
         registerPageObjects.clickToRegisterButton();
 
-        // Them step click vao Register button o day
-        // Vi trong behavior la nhap confirm password xong hover ra khoi textbox thi moi hien thi error message
-        // Ma thang sendkey trong selenium chi truyen data vao va khong co hanh vi hover ra khoi textbox nen ko hien thi loi
-        registerPageObjects.clickToRegisterButton();
 
         logger.info("Step07: Verify Error ConfirmPassword Message");
         registerPageObjects.verifyConfirmPasswordErrorMessage(DataTests.confirmpassworderrormessage);

@@ -44,7 +44,7 @@ public class Testcase_Login_Page extends BaseTest {
 
         logger.info("Step 03: Verify email error message displayed");
         loginPageObjects.verifyEmailErrorMessage();
-
+        refreshToPage(driver);
     }
 
     @Test
@@ -59,13 +59,12 @@ public class Testcase_Login_Page extends BaseTest {
         loginPageObjects.clickToLoginBtn();
 
         logger.info("Step 03: Verify Login was unsuccessfull message displayed");
-        loginPageObjects.verifyLoginWasUnsuccessfullMessage (DataTests.loginwasunsuccessfullmessage);
+        loginPageObjects.verifyLoginWasUnsuccessfullMessage(DataTests.loginwasunsuccessfullmessage);
 
     }
 
     @Test
     public void TC_03_Login_WithNotExitsEmail () {
-        refreshToPage(driver);
         logger.info("Step 01: Input email not exits");
         loginPageObjects.inputEmail(DataTests.emailNotExist);
 
@@ -73,12 +72,11 @@ public class Testcase_Login_Page extends BaseTest {
         loginPageObjects.clickToLoginBtn();
 
         logger.info("Step 03: Verify error message");
-        loginPageObjects.verifyLoginWasUnsuccessfullMessage (DataTests.loginwithwrongemailiderrormessage);
+        loginPageObjects.verifyLoginWasUnsuccessfullMessage(DataTests.loginwithwrongemailiderrormessage);
     }
 
     @Test
     public void TC_04_Login_With_EmptyPassword() {
-        refreshToPage(driver);
         logger.info("Step 01: Step 01: Input valid email");
         loginPageObjects.inputEmail(DataTests.validemail);
 
@@ -86,11 +84,11 @@ public class Testcase_Login_Page extends BaseTest {
         loginPageObjects.clickToLoginBtn();
 
         logger.info("Step 03: Verify error message");
-        loginPageObjects.verifyLoginWasUnsuccessfullMessage (DataTests.loginwithwrongemailiderrormessage);
+        loginPageObjects.verifyLoginWasUnsuccessfullMessage(DataTests.loginwithwrongemailiderrormessage);
+//        refreshToPage(driver);
     }
     @Test
     public void TC_05_Login_With_WrongPassword() {
-        refreshToPage(driver);
         logger.info("Step 01: Step 01: Input valid email");
         loginPageObjects.inputEmail(DataTests.validemail);
 
@@ -101,11 +99,10 @@ public class Testcase_Login_Page extends BaseTest {
         loginPageObjects.clickToLoginBtn();
 
         logger.info("Step 03: Verify error message");
-        loginPageObjects.verifyLoginWasUnsuccessfullMessage (DataTests.loginwithwrongemailiderrormessage);
+        loginPageObjects.verifyLoginWasUnsuccessfullMessage(DataTests.loginwithwrongemailiderrormessage);
     }
     @Test
     public void TC_06_Login_Successfully() {
-        refreshToPage(driver);
         logger.info("Step 01: Step 01: Input valid email");
         loginPageObjects.inputEmail(DataTests.email);
 
@@ -118,7 +115,7 @@ public class Testcase_Login_Page extends BaseTest {
         logger.info("Step 04: Verify navigated to homepage successfully");
         homePageObjects = new HomePageObjects(driver);
         homePageObjects.verifyWelcomeMessage(DataTestsHomePage.welcomemessage);
-
+        refreshToPage(driver);
     }
 
 }

@@ -23,7 +23,7 @@ public class LoginPageObjects extends AbstractPage {
     }
 
     public void inputEmail(String email) {
-
+        waitToElementPresence(driver, LoginPageUI.EMAIL_TEXTBOX);
         sendkeyToElement(driver, LoginPageUI.EMAIL_TEXTBOX, email);
     }
 

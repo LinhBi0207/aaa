@@ -6,9 +6,22 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.testng.annotations.BeforeSuite;
+import testdata.GlobalContants;
+
+import java.io.File;
 
 public class BaseTest extends AbstractPage {
     private WebDriver driver;
+
+    public WebDriver getDriver() {
+        return driver;
+    }
+    @BeforeSuite
+    protected void deleteFileInReport() {
+        deleteAllFileInFolder("allure-json");
+        deleteAllFileInFolder("logs");
+    }
     protected WebDriver getBrowserDriver(String browserName) {
         switch (browserName) {
             case "chrome":
@@ -38,5 +51,19 @@ public class BaseTest extends AbstractPage {
         return driver;
     }
 
+    protected void deleteAllFileInFolder(String folderName) {
+        try {
+            String pathFolderDownload = GlobalContants.PROJECT_PATH + File.separator + folderName;
+            File file = new File(pathFolderDownload);
+            File[] listOfFiles = file.listFiles();
+            for (int i = 0; i < (listOfFiles != null ? listOfFiles.length : 0); i++) {
+                if (listOfFiles[i].isFile() && !listOfFiles[i].getName().equals("environment.properties")) {
+                    new File(listOfFiles[i].toString()).delete();
+                }
+            }
+        } catch (Exception e) {
+            System.out.print(e.getMessage());
+        }
+    }
 }
 
