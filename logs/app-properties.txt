@@ -2260,3 +2260,1014 @@
 [INFO ] 03-05-2024 12:02:17 [main] Testcase_MyAccount_CustomerInfo_Page - Step 05: Change Email
 [INFO ] 03-05-2024 12:02:17 [main] Testcase_MyAccount_CustomerInfo_Page - Step 06: Change Company info
 [INFO ] 03-05-2024 12:02:17 [main] Testcase_MyAccount_CustomerInfo_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:29:13 [TestNG-test=Run on Chrome-5] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:29:13 [TestNG-test=Run on Chrome-4] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:29:13 [TestNG-test=Run on Chrome-1] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:29:13 [TestNG-test=Run on Chrome-3] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:29:13 [TestNG-test=Run on Chrome-2] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:29:14 [TestNG-test=Run on Chrome-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:29:14 [TestNG-test=Run on Chrome-2] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:29:15 [TestNG-test=Run on Chrome-4] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:29:15 [TestNG-test=Run on Chrome-5] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:29:16 [TestNG-test=Run on Chrome-3] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:29:16 [TestNG-test=Run on Chrome-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:29:17 [TestNG-test=Run on Chrome-4] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:29:18 [TestNG-test=Run on Chrome-5] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:29:18 [TestNG-test=Run on Chrome-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:29:18 [TestNG-test=Run on Chrome-3] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:29:19 [TestNG-test=Run on Chrome-2] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:29:19 [TestNG-test=Run on Chrome-5] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:29:20 [TestNG-test=Run on Chrome-4] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:29:20 [TestNG-test=Run on Chrome-4] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:29:21 [TestNG-test=Run on Chrome-1] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:29:21 [TestNG-test=Run on Chrome-1] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:29:21 [TestNG-test=Run on Chrome-1] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:29:22 [TestNG-test=Run on Chrome-1] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:30:13 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:30:14 [TestNG-tests-1] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:30:14 [TestNG-tests-1] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:30:15 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:30:15 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:30:15 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:30:15 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:30:15 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:30:15 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:30:16 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:30:16 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:30:16 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:30:16 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:30:16 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:30:16 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:30:16 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:30:17 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:30:17 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:30:17 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:30:17 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:30:17 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:30:18 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:30:18 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:30:18 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:30:18 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:30:18 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:30:19 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:30:19 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:30:19 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:30:19 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:30:19 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:30:19 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:30:19 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:30:19 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:30:20 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:30:20 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:30:20 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:30:20 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:30:20 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:30:20 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:30:23 [TestNG-tests-1] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:30:23 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:30:23 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:30:24 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:30:24 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:30:24 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 08-05-2024 15:30:25 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:30:25 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:30:25 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:30:26 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:30:26 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:30:26 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:30:27 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:30:27 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:30:27 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:30:27 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:30:28 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:30:28 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:30:28 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:30:29 [TestNG-tests-1] Testcase_Login_Page - Step 04: Verify navigated to homepage successfully
+[INFO ] 08-05-2024 15:30:31 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:30:31 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:30:32 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:30:32 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:30:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:30:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:30:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:30:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:30:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:30:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:30:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:30:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:30:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 08-05-2024 15:34:53 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:34:54 [TestNG-tests-1] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:34:55 [TestNG-tests-1] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:34:55 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:34:55 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:34:55 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:34:55 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:34:55 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:34:56 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:34:56 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:34:56 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:34:56 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:34:56 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:34:56 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:34:56 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:34:56 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:34:57 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:34:57 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:34:57 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:34:58 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:34:58 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:34:58 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:34:58 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:34:58 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:34:58 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:34:58 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:34:59 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:34:59 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:34:59 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:34:59 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:34:59 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:34:59 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:34:59 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:35:00 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:35:00 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:35:00 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:35:00 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:35:00 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:35:00 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:35:00 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:35:03 [TestNG-tests-1] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:35:03 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:35:03 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:35:04 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:35:04 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:35:04 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 08-05-2024 15:35:05 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:35:05 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:35:05 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:35:05 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:35:05 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:35:06 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:35:06 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:35:06 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:35:06 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:35:07 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:35:07 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:35:07 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:35:07 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:35:08 [TestNG-tests-1] Testcase_Login_Page - Step 04: Verify navigated to homepage successfully
+[INFO ] 08-05-2024 15:35:11 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:35:11 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:35:11 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:35:12 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:35:12 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:35:12 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:35:12 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:35:12 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:35:12 [TestNG-tests-1] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:35:13 [TestNG-tests-1] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:35:13 [TestNG-tests-1] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:35:13 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:35:13 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 08-05-2024 15:36:17 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:36:18 [TestNG-tests-1] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:36:18 [TestNG-tests-1] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:36:18 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:36:18 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:36:19 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:36:19 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:36:19 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:36:19 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:36:19 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:36:19 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:36:19 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:36:19 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:36:20 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:36:20 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:36:20 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:36:20 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:36:20 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:36:21 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:36:21 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:36:21 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:36:21 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:36:21 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:36:21 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:36:22 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:36:22 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:36:22 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:36:22 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:36:22 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:36:22 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:36:22 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:36:22 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:36:23 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:36:23 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:36:23 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:36:23 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:36:23 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:36:24 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:36:24 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:36:24 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:36:27 [TestNG-tests-1] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:36:28 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:36:29 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:36:29 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:36:29 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:36:32 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:36:32 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:36:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:36:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:36:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:36:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:36:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:36:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:36:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:36:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:36:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:36:35 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:36:35 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 08-05-2024 15:37:09 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:37:10 [TestNG-tests-1] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:37:10 [TestNG-tests-1] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:37:10 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:37:10 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:37:10 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:37:10 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:37:10 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:37:11 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:37:11 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:37:11 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:37:11 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:37:11 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:37:11 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:37:11 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:37:11 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:37:12 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:37:12 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:37:12 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:37:13 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:37:13 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:37:13 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:37:13 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:37:13 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:37:13 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:37:13 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:37:14 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:37:14 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:37:14 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:37:14 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:37:14 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:37:14 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:37:15 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:37:15 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:37:15 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:37:15 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:37:15 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:37:15 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:37:15 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:37:16 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:37:18 [TestNG-tests-1] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:37:19 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:37:19 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:37:19 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:37:19 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:37:20 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 08-05-2024 15:37:20 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:37:20 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:37:21 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:37:21 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:37:21 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:37:21 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:37:22 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:37:22 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:37:22 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:37:22 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:37:23 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:37:23 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:37:23 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:37:23 [TestNG-tests-1] Testcase_Login_Page - Step 04: Verify navigated to homepage successfully
+[INFO ] 08-05-2024 15:37:26 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:37:26 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:37:26 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:37:27 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:37:27 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:37:27 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:37:27 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:37:27 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:37:28 [TestNG-tests-1] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:37:28 [TestNG-tests-1] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:37:28 [TestNG-tests-1] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:37:28 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:37:29 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 08-05-2024 15:38:11 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:38:12 [TestNG-tests-1] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:38:12 [TestNG-tests-1] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:38:12 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:38:12 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:13 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:13 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:38:13 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:13 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:13 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:38:13 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:14 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:14 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:38:14 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:14 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:14 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:38:15 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:38:15 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:38:15 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:15 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:16 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:38:16 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:16 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:16 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:38:16 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:38:17 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:38:17 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:17 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:17 [TestNG-tests-2] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:38:17 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:38:17 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:18 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:18 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:38:18 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:38:18 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:38:18 [TestNG-tests-2] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:38:18 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:19 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:19 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:38:19 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:19 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:19 [TestNG-tests-2] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:38:19 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:38:19 [TestNG-tests-2] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:38:20 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:21 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:21 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:38:21 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:21 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:21 [TestNG-tests-2] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:38:22 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:22 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:22 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:38:22 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:22 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:22 [TestNG-tests-2] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:38:23 [TestNG-tests-1] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:38:23 [TestNG-tests-2] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:38:23 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:38:23 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:38:24 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:38:24 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:38:24 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 08-05-2024 15:38:25 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:38:25 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:38:25 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:38:26 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:38:26 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:38:26 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:38:26 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:38:26 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:38:27 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:38:27 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:38:27 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:38:27 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:38:27 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:38:28 [TestNG-tests-1] Testcase_Login_Page - Step 04: Verify navigated to homepage successfully
+[INFO ] 08-05-2024 15:38:32 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:38:32 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:38:32 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:38:33 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:38:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:38:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:38:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:38:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:38:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:38:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:38:34 [TestNG-tests-1] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:38:35 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:38:35 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 08-05-2024 15:38:38 [TestNG-tests-2] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:38:38 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:38 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:38 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:38:38 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:38 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:38 [TestNG-tests-2] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:38:39 [TestNG-tests-2] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:38:39 [TestNG-tests-2] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:38:39 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:39 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:39 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:38:39 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:39 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:39 [TestNG-tests-2] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:38:40 [TestNG-tests-2] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:38:40 [TestNG-tests-2] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:38:40 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:38:40 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:38:40 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:38:40 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:38:40 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:38:41 [TestNG-tests-2] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:38:48 [TestNG-tests-2] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:38:49 [TestNG-tests-2] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:38:49 [TestNG-tests-2] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:38:50 [TestNG-tests-2] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:38:50 [TestNG-tests-2] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:38:51 [TestNG-tests-2] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 08-05-2024 15:38:51 [TestNG-tests-2] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:38:51 [TestNG-tests-2] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:38:51 [TestNG-tests-2] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:38:51 [TestNG-tests-2] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:39:00 [TestNG-tests-2] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:39:00 [TestNG-tests-2] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:39:00 [TestNG-tests-2] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:39:00 [TestNG-tests-2] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:39:01 [TestNG-tests-2] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:39:01 [TestNG-tests-2] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:39:01 [TestNG-tests-2] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:39:01 [TestNG-tests-2] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:39:02 [TestNG-tests-2] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:39:02 [TestNG-tests-2] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:39:02 [TestNG-tests-2] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:39:07 [TestNG-tests-2] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:39:12 [TestNG-tests-2] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 08-05-2024 15:41:25 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:41:26 [TestNG-tests-1] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:41:26 [TestNG-tests-1] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:41:26 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:41:26 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:41:26 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:41:27 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:41:27 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:41:27 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:41:27 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:41:27 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:41:27 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:41:27 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:41:27 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:41:28 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:41:28 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:41:28 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:41:28 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:41:29 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:41:29 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:41:29 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:41:29 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:41:29 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:41:29 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:41:30 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:41:30 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:41:30 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:41:30 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:41:30 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:41:30 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:41:30 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:41:30 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:41:31 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:41:31 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:41:31 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:41:31 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:41:31 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:41:31 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:41:32 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:41:32 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:41:34 [TestNG-tests-1] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:41:35 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:41:35 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:41:35 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:41:36 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:41:36 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 08-05-2024 15:41:36 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:41:36 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:41:37 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:41:37 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:41:37 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:41:38 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:41:38 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:41:38 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:41:38 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:41:38 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:41:39 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:41:39 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:41:39 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:41:40 [TestNG-tests-1] Testcase_Login_Page - Step 04: Verify navigated to homepage successfully
+[INFO ] 08-05-2024 15:41:43 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:41:43 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:41:43 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:41:44 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:41:44 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:41:44 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:41:44 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:41:44 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:41:45 [TestNG-tests-1] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:41:45 [TestNG-tests-1] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:41:45 [TestNG-tests-1] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:41:46 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:41:46 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 08-05-2024 15:44:17 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:44:17 [TestNG-tests-1] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:44:17 [TestNG-tests-1] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:44:18 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:44:18 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:18 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:19 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:44:19 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:19 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:19 [TestNG-tests-1] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:44:19 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:20 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:20 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:44:20 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:20 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:20 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:44:21 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:44:21 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:44:21 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:21 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:22 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:44:22 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:22 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:22 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:44:22 [TestNG-tests-2] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 08-05-2024 15:44:22 [TestNG-tests-1] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:44:22 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:44:23 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:23 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:23 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:44:23 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:23 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:23 [TestNG-tests-2] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 08-05-2024 15:44:23 [TestNG-tests-1] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:44:24 [TestNG-tests-2] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 08-05-2024 15:44:24 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:44:24 [TestNG-tests-1] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:44:24 [TestNG-tests-2] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:44:24 [TestNG-tests-1] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:24 [TestNG-tests-1] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:24 [TestNG-tests-1] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:44:24 [TestNG-tests-1] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:25 [TestNG-tests-1] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:25 [TestNG-tests-1] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:44:25 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:25 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:25 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 08-05-2024 15:44:25 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:25 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:25 [TestNG-tests-2] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 08-05-2024 15:44:26 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:26 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:27 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:44:27 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:27 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:27 [TestNG-tests-2] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:44:28 [TestNG-tests-2] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 08-05-2024 15:44:28 [TestNG-tests-1] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:44:28 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:44:28 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:44:29 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:44:29 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:44:29 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 08-05-2024 15:44:30 [TestNG-tests-1] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:44:30 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:44:30 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:44:30 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:44:30 [TestNG-tests-1] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:44:31 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:44:31 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:44:31 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:44:31 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:44:32 [TestNG-tests-1] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 08-05-2024 15:44:32 [TestNG-tests-1] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:44:32 [TestNG-tests-1] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:44:32 [TestNG-tests-1] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:44:33 [TestNG-tests-1] Testcase_Login_Page - Step 04: Verify navigated to homepage successfully
+[INFO ] 08-05-2024 15:44:36 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:44:36 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:44:36 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:44:37 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:44:37 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:44:38 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:44:38 [TestNG-tests-1] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:44:38 [TestNG-tests-1] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:44:38 [TestNG-tests-1] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:44:38 [TestNG-tests-1] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:44:38 [TestNG-tests-1] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:44:39 [TestNG-tests-1] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:44:39 [TestNG-tests-1] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 08-05-2024 15:44:43 [TestNG-tests-2] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:44:43 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:43 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:43 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:44:43 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:43 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:43 [TestNG-tests-2] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 08-05-2024 15:44:43 [TestNG-tests-2] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 08-05-2024 15:44:44 [TestNG-tests-2] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 08-05-2024 15:44:45 [TestNG-tests-2] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 08-05-2024 15:44:45 [TestNG-tests-2] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 08-05-2024 15:44:45 [TestNG-tests-2] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 08-05-2024 15:44:45 [TestNG-tests-2] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 08-05-2024 15:44:45 [TestNG-tests-2] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 08-05-2024 15:44:46 [TestNG-tests-2] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 08-05-2024 15:44:53 [TestNG-tests-2] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 08-05-2024 15:44:54 [TestNG-tests-2] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 08-05-2024 15:44:54 [TestNG-tests-2] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 08-05-2024 15:44:55 [TestNG-tests-2] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 08-05-2024 15:44:55 [TestNG-tests-2] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 08-05-2024 15:44:56 [TestNG-tests-2] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 08-05-2024 15:44:56 [TestNG-tests-2] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 08-05-2024 15:44:56 [TestNG-tests-2] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:44:56 [TestNG-tests-2] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:44:57 [TestNG-tests-2] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:45:05 [TestNG-tests-2] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 08-05-2024 15:45:05 [TestNG-tests-2] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 08-05-2024 15:45:05 [TestNG-tests-2] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 08-05-2024 15:45:06 [TestNG-tests-2] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 08-05-2024 15:45:06 [TestNG-tests-2] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 08-05-2024 15:45:06 [TestNG-tests-2] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 08-05-2024 15:45:06 [TestNG-tests-2] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 08-05-2024 15:45:06 [TestNG-tests-2] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 08-05-2024 15:45:07 [TestNG-tests-2] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 08-05-2024 15:45:07 [TestNG-tests-2] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 08-05-2024 15:45:07 [TestNG-tests-2] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 08-05-2024 15:45:07 [TestNG-tests-2] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 08-05-2024 15:45:08 [TestNG-tests-2] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 10-05-2024 20:50:59 [main] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 10-05-2024 20:51:00 [main] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 10-05-2024 20:51:00 [main] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 10-05-2024 20:51:00 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 20:51:01 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:51:01 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:51:01 [main] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 10-05-2024 20:51:02 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:51:02 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:51:02 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 20:51:02 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:51:03 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:51:03 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:51:03 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:51:03 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:51:03 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 20:51:05 [main] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 10-05-2024 20:51:05 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:51:05 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:51:05 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:51:06 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:51:06 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:51:06 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:51:06 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 20:51:07 [main] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 10-05-2024 20:51:07 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:51:07 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:51:07 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:51:08 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:51:08 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:51:08 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:51:08 [main] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 10-05-2024 20:51:09 [main] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 10-05-2024 20:51:09 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:51:10 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:51:10 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:51:11 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:51:11 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:51:11 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:51:11 [main] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 10-05-2024 20:51:17 [main] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 10-05-2024 20:51:19 [main] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 10-05-2024 20:51:20 [main] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 10-05-2024 20:51:20 [main] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 10-05-2024 20:51:21 [main] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 10-05-2024 20:51:22 [main] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 10-05-2024 20:51:23 [main] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 10-05-2024 20:51:23 [main] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 10-05-2024 20:51:24 [main] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 10-05-2024 20:51:25 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:51:25 [main] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 10-05-2024 20:51:26 [main] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 10-05-2024 20:51:26 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:51:27 [main] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 20:51:27 [main] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 20:51:28 [main] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 10-05-2024 20:51:28 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:51:29 [main] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 20:51:29 [main] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 20:51:30 [main] Testcase_Login_Page - Step 04: Verify navigated to homepage successfully
+[INFO ] 10-05-2024 20:51:35 [main] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:51:35 [main] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 20:51:35 [main] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 20:51:36 [main] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 10-05-2024 20:51:37 [main] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 10-05-2024 20:51:37 [main] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 10-05-2024 20:51:37 [main] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 10-05-2024 20:51:37 [main] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 10-05-2024 20:51:38 [main] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 10-05-2024 20:51:38 [main] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 10-05-2024 20:51:38 [main] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 10-05-2024 20:51:39 [main] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 10-05-2024 20:51:40 [main] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 10-05-2024 20:53:24 [main] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 10-05-2024 20:53:25 [main] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 10-05-2024 20:53:25 [main] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 10-05-2024 20:53:26 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 20:53:26 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:53:27 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:53:27 [main] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 10-05-2024 20:53:28 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:53:28 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:53:28 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 20:53:29 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:53:29 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:53:30 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:53:30 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:53:31 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:53:31 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 20:53:32 [main] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 10-05-2024 20:53:32 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:53:33 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:53:33 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:53:33 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:53:33 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:53:34 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:53:34 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 20:53:35 [main] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 10-05-2024 20:53:35 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:53:35 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:53:36 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:53:36 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:53:36 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:53:36 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:53:36 [main] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 10-05-2024 20:53:37 [main] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 10-05-2024 20:53:37 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:53:38 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:53:38 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:53:38 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:53:38 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:53:38 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:53:39 [main] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 10-05-2024 20:53:42 [main] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 10-05-2024 20:53:43 [main] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 10-05-2024 20:53:43 [main] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 10-05-2024 20:53:43 [main] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 10-05-2024 20:53:44 [main] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 10-05-2024 20:53:44 [main] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 10-05-2024 20:53:45 [main] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 10-05-2024 20:53:45 [main] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 10-05-2024 20:53:45 [main] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 10-05-2024 20:53:46 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:53:46 [main] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 10-05-2024 20:53:47 [main] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 10-05-2024 20:53:47 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:53:47 [main] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 20:53:48 [main] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 20:53:48 [main] Testcase_Login_Page - Step 03: Verify error message
+[INFO ] 10-05-2024 20:53:49 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:53:49 [main] Testcase_Login_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 20:53:49 [main] Testcase_Login_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 20:53:50 [main] Testcase_Login_Page - Step 04: Verify navigated to homepage successfully
+[INFO ] 10-05-2024 20:53:58 [main] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:53:59 [main] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 20:53:59 [main] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 20:54:00 [main] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 10-05-2024 20:54:01 [main] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 10-05-2024 20:54:02 [main] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 10-05-2024 20:54:02 [main] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 10-05-2024 20:54:02 [main] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 10-05-2024 20:54:02 [main] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 10-05-2024 20:54:02 [main] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 10-05-2024 20:54:03 [main] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 10-05-2024 20:54:04 [main] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 10-05-2024 20:54:04 [main] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 10-05-2024 20:54:12 [main] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 10-05-2024 20:54:13 [main] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 10-05-2024 20:54:14 [main] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 10-05-2024 20:54:14 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 20:54:15 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:54:16 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:54:16 [main] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 10-05-2024 20:54:16 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:54:16 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:54:16 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 20:54:18 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:54:18 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:54:18 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:54:18 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:54:18 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:54:18 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 20:54:19 [main] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 10-05-2024 20:54:34 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:54:35 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:54:35 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:54:35 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:54:35 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:54:35 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:54:35 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 20:54:35 [main] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 10-05-2024 20:54:35 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:54:36 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:54:36 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:54:36 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:54:36 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:54:36 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:54:36 [main] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 10-05-2024 20:54:37 [main] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 10-05-2024 20:54:37 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 20:54:37 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 20:54:37 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 20:54:37 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 20:54:37 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 20:54:37 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 20:54:38 [main] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 10-05-2024 20:54:46 [main] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 10-05-2024 20:54:49 [main] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 10-05-2024 20:54:49 [main] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 10-05-2024 20:54:51 [main] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 10-05-2024 20:54:51 [main] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 10-05-2024 20:54:52 [main] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 10-05-2024 20:54:52 [main] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 10-05-2024 20:54:52 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:54:53 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:54:53 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:55:07 [main] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 20:55:07 [main] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 20:55:07 [main] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 20:55:09 [main] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 10-05-2024 20:55:10 [main] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 10-05-2024 20:55:10 [main] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 10-05-2024 20:55:10 [main] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 10-05-2024 20:55:10 [main] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 10-05-2024 20:55:11 [main] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 10-05-2024 20:55:11 [main] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 10-05-2024 20:55:11 [main] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 10-05-2024 20:55:12 [main] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 10-05-2024 20:55:13 [main] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 10-05-2024 21:21:31 [main] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 10-05-2024 21:21:32 [main] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 10-05-2024 21:21:32 [main] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 10-05-2024 21:21:32 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:21:33 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:21:33 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:21:33 [main] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 10-05-2024 21:21:34 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:21:34 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:21:34 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:21:35 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:21:35 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:21:35 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:22:16 [main] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 10-05-2024 21:22:18 [main] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 10-05-2024 21:22:18 [main] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 10-05-2024 21:22:19 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:22:19 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:22:20 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:22:20 [main] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 10-05-2024 21:22:20 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:22:20 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:22:20 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:22:22 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:22:22 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:22:22 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:23:07 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:23:09 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:23:10 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 21:23:14 [main] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 10-05-2024 21:23:57 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 21:24:08 [main] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 10-05-2024 21:24:10 [main] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 10-05-2024 21:24:10 [main] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 10-05-2024 21:24:11 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:24:12 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:24:12 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:24:12 [main] Testcase_Register_Page - Step 04: Input InvalidEmail
+[INFO ] 10-05-2024 21:24:12 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:24:12 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:24:13 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:24:14 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:24:14 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:24:14 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:24:14 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:24:14 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:24:15 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 21:24:16 [main] Testcase_Register_Page - Step 08: Verify success messages display
+[INFO ] 10-05-2024 21:24:16 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 21:24:16 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:24:17 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:24:17 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:24:17 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:24:17 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:24:17 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 21:24:17 [main] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 10-05-2024 21:24:17 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 21:24:18 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:24:18 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:24:18 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:24:18 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:24:18 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:24:18 [main] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 10-05-2024 21:24:19 [main] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 10-05-2024 21:24:19 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 21:24:19 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:24:19 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:24:19 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:24:19 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:24:19 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:24:20 [main] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 10-05-2024 21:24:27 [main] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 10-05-2024 21:24:28 [main] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 10-05-2024 21:24:29 [main] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 10-05-2024 21:24:44 [main] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 10-05-2024 21:24:44 [main] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 10-05-2024 21:24:44 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 21:24:44 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 21:24:44 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 21:24:52 [main] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 21:24:52 [main] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 21:24:52 [main] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 21:24:53 [main] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 10-05-2024 21:24:53 [main] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 10-05-2024 21:24:54 [main] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 10-05-2024 21:24:54 [main] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 10-05-2024 21:24:54 [main] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 10-05-2024 21:24:55 [main] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 10-05-2024 21:24:55 [main] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 10-05-2024 21:24:55 [main] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 10-05-2024 21:24:55 [main] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 10-05-2024 21:24:56 [main] Testcase_MyAccount_Page - Step 02: Click to Addnew button
+[INFO ] 10-05-2024 21:28:44 [main] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 10-05-2024 21:28:45 [main] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 10-05-2024 21:28:45 [main] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 10-05-2024 21:29:00 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:29:01 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:29:01 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:29:01 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:29:01 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 21:29:01 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:29:01 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:29:01 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:29:52 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:30:05 [main] Testcase_Register_Page - Step 01: Click to Register button at Home Page
+[INFO ] 10-05-2024 21:30:06 [main] Testcase_Register_Page - Step 02: Click to Register button at Register PAge
+[INFO ] 10-05-2024 21:30:06 [main] Testcase_Register_Page - Step 03: Verify error messages display
+[INFO ] 10-05-2024 21:30:21 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:30:21 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:30:22 [main] Testcase_Register_Page - Step 01: Reload Register Page
+[INFO ] 10-05-2024 21:30:22 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:30:23 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 21:30:24 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:30:24 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:30:24 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:30:24 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:30:24 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:30:24 [main] Testcase_Register_Page - Step 07: Click Register button
+[INFO ] 10-05-2024 21:30:25 [main] Testcase_Register_Page - Step 08: Verify 'The specified email already exists' display
+[INFO ] 10-05-2024 21:30:40 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 21:30:41 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:30:41 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:30:41 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:30:41 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:30:41 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:30:41 [main] Testcase_Register_Page - Step 07: Click to register button
+[INFO ] 10-05-2024 21:30:41 [main] Testcase_Register_Page - Step07: Verify Error Password Message
+[INFO ] 10-05-2024 21:30:41 [main] Testcase_Register_Page - Step 01: Click to Register Hyperlink
+[INFO ] 10-05-2024 21:30:42 [main] Testcase_Register_Page - Step 02: Input FirstName
+[INFO ] 10-05-2024 21:30:42 [main] Testcase_Register_Page - Step 03: Input LastName
+[INFO ] 10-05-2024 21:30:42 [main] Testcase_Register_Page - Step 04: Input ValidEmail
+[INFO ] 10-05-2024 21:30:42 [main] Testcase_Register_Page - Step 05: Input Password
+[INFO ] 10-05-2024 21:30:42 [main] Testcase_Register_Page - Step 06: Input ConfirmPassword
+[INFO ] 10-05-2024 21:30:43 [main] Testcase_Register_Page - Step07: Verify Error ConfirmPassword Message
+[INFO ] 10-05-2024 21:30:49 [main] Testcase_Login_Page - Step 01: Click on Register button at Home page
+[INFO ] 10-05-2024 21:30:51 [main] Testcase_Login_Page - Step 02: Click on Login button at Login page
+[INFO ] 10-05-2024 21:30:51 [main] Testcase_Login_Page - Step 03: Verify email error message displayed
+[INFO ] 10-05-2024 21:30:54 [main] Testcase_Login_Page - Step 01: Input Invalid Email
+[INFO ] 10-05-2024 21:30:54 [main] Testcase_Login_Page - Step 02: Click Login Button
+[INFO ] 10-05-2024 21:30:55 [main] Testcase_Login_Page - Step 03: Verify Login was unsuccessfull message displayed
+[INFO ] 10-05-2024 21:30:56 [main] Testcase_Login_Page - Step 01: Input email not exits
+[INFO ] 10-05-2024 21:30:56 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 21:30:56 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 21:30:56 [main] Testcase_Login_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 21:31:04 [main] Testcase_MyAccount_Page - Step 01: Step 01: Input valid email
+[INFO ] 10-05-2024 21:31:04 [main] Testcase_MyAccount_Page - Step 03: Input wrong password
+[INFO ] 10-05-2024 21:31:04 [main] Testcase_MyAccount_Page - Step 03: Click Login Button
+[INFO ] 10-05-2024 21:31:05 [main] Testcase_MyAccount_Page - Step 04: Click to MyAccount Button
+[INFO ] 10-05-2024 21:31:06 [main] Testcase_MyAccount_Page - Step 01: Select Female Gender
+[INFO ] 10-05-2024 21:31:06 [main] Testcase_MyAccount_Page - Step 02: Change FirstName
+[INFO ] 10-05-2024 21:31:06 [main] Testcase_MyAccount_Page - Step 03: Change LastName
+[INFO ] 10-05-2024 21:31:06 [main] Testcase_MyAccount_Page - Step 04: Change Dob
+[INFO ] 10-05-2024 21:31:07 [main] Testcase_MyAccount_Page - Step 05: Change Email
+[INFO ] 10-05-2024 21:31:07 [main] Testcase_MyAccount_Page - Step 06: Change Company info
+[INFO ] 10-05-2024 21:31:07 [main] Testcase_MyAccount_Page - Step 07: Click Save Button
+[INFO ] 10-05-2024 21:31:08 [main] Testcase_MyAccount_Page - Step 01: Click to Address Button
+[INFO ] 10-05-2024 21:31:08 [main] Testcase_MyAccount_Page - Step 02: Click to Addnew button

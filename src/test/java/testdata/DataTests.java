@@ -17,6 +17,7 @@ public class DataTests extends AbstractPage {
     public static final String otherconfirmpassword = "alo123";
     public static final String email = "alo" + randomNumber() + "@gmail.com";
     public static final String validemail = email;
+    public static final String emailNotExist = "lingbi@gmail.com";
 
 
 

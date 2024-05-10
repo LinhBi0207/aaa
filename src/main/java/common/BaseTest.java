@@ -18,8 +18,8 @@ public class BaseTest extends AbstractPage {
                 driver = new ChromeDriver(chromeOptions);
                 break;
             case "firefox":
-                //WebDriverManager.chromedriver().clearDriverCache().setup();
-                WebDriverManager.chromedriver().setup();
+                //WebDriverManager.firefoxdriver().clearDriverCache().setup();
+                WebDriverManager.firefoxdriver().setup();
                 FirefoxOptions firefoxOptions = new FirefoxOptions();
                 driver = new FirefoxDriver(firefoxOptions);
                 break;

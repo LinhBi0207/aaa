@@ -67,7 +67,7 @@ public class Testcase_Login_Page extends BaseTest {
     public void TC_03_Login_WithNotExitsEmail () {
         refreshToPage(driver);
         logger.info("Step 01: Input email not exits");
-        loginPageObjects.inputEmail(DataTests.email);
+        loginPageObjects.inputEmail(DataTests.emailNotExist);
 
         logger.info("Step 02: Click Login Button");
         loginPageObjects.clickToLoginBtn();
