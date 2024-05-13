@@ -72,7 +72,7 @@ public class Testcase_Login_Page extends BaseTest {
         loginPageObjects.clickToLoginBtn();
 
         logger.info("Step 03: Verify error message");
-        loginPageObjects.verifyLoginWasUnsuccessfullMessage(DataTests.loginwithwrongemailiderrormessage);
+        loginPageObjects.verifyLoginWasUnsuccessfullMessage(DataTests.loginwasunsuccessfullmessage);
     }
 
     @Test

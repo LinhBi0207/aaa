@@ -1,0 +1,1 @@
+{"uuid":"2fd72332-836f-4bcf-bb08-85b2666d20c1","name":"EnDiPi","children":["1c40a4cc-7a0b-4dad-be59-c1257f46aced"],"befores":[{"name":"deleteFileInReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1715608504530,"stop":1715608504553}],"afters":[],"start":1715608504463,"stop":1715608562774}
