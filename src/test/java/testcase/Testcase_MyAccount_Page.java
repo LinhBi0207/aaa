@@ -48,7 +48,7 @@ public class Testcase_MyAccount_Page extends BaseTest {
     }
     @AfterClass
     public void afterClass() {
-        quitBrowser();
+        //quitBrowser();
 
     }
 
@@ -81,11 +81,32 @@ public class Testcase_MyAccount_Page extends BaseTest {
         myaccountPageObjects.clickSaveButton();
     }
     @Test
-    public void TC_02_Add_Adress() {
-        logger.info("Step 01: Click to Address Button");
-        myaccountPageObjects.clickToAddressButton();
+    public void TC_02_Change_Password () {
+        logger.info("Step 01:Change Password");
+        myaccountPageObjects.clickToChangePassword();
 
-        logger.info("Step 02: Click to Addnew button");
-        myaccountPageObjects.clickToAddnewButton();
+        myaccountPageObjects.inputOldPassword(DataTests.password);
+        myaccountPageObjects.inputNewPassword(DataTestsMyAccount.newpassword);
+        myaccountPageObjects.inputConfirmNewPassword(DataTestsMyAccount.newpassword);
+
+        myaccountPageObjects.clickToChangePasswordButton();
+        myaccountPageObjects.clickToCloseFrameButton();
+
+        logger.info("Step 02: Change Password");
+        openUrl(driver, "https://demo.nopcommerce.com/");
+        homePageObjects = new HomePageObjects(driver);
+        homePageObjects.clickToLogoutButton();
+        homePageObjects.clickToLoginButton();
+
+        loginPageObjects = new LoginPageObjects(driver);
+        loginPageObjects.inputEmail(DataTests.email);
+        loginPageObjects.inputOldPassword(DataTests.password);
+        loginPageObjects.clickToLoginBtn();
+        loginPageObjects.verifyOldPasswordErrorMessage(DataTests.loginwithwrongemailiderrormessage);
+
+        loginPageObjects.inputEmail(DataTests.email);
+        loginPageObjects.inputNewPassword(DataTestsMyAccount.newpassword);
+        loginPageObjects.clickToLoginBtn();
+
     }
 }

@@ -54,4 +54,34 @@ public class MyAccountPageObjects extends AbstractPage {
     public void clickToAddnewButton() {
        clickToElement(driver, MyAccountPageUI.ADDNEW_BUTTON);
     }
+
+    public void clickToChangePassword() {
+       clickToElement(driver, MyAccountPageUI.CHANGE_PASSWORD_BUTTON);
+    }
+
+
+    public void inputOldPassword(String oldpassword) {
+       sendkeyToElement(driver, MyAccountPageUI.OLD_PASSWORD_TEXTBOX, oldpassword );
+    }
+
+    public void inputNewPassword(String newpassword) {
+       sendkeyToElement(driver, MyAccountPageUI.NEW_PASSWORD_TEXTBOX, newpassword);
+    }
+    public void inputConfirmNewPassword(String confirmpassword) {
+       sendkeyToElement(driver, MyAccountPageUI.CONFIRM_PASSWORD_TEXTBOX, confirmpassword);
+    }
+
+    public void clickToChangePasswordButton() {
+       clickToElement(driver, MyAccountPageUI.CHANGE_PASSWORD_SUBMIT_BUTTON);
+    }
+
+
+    public void clickToLogoutButton() {
+       waitToElementClickable(driver, MyAccountPageUI.LOGOUT_BUTTON);
+       clickToElement(driver, MyAccountPageUI.LOGOUT_BUTTON);
+    }
+
+    public void clickToCloseFrameButton() {
+       clickToElement(driver, MyAccountPageUI.FRAME_CLOSE);
+    }
 }

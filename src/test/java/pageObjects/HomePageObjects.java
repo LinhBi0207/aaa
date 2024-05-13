@@ -8,7 +8,7 @@ import pageUI.HomePageUI;
 public class HomePageObjects extends AbstractPage {
     WebDriver driver;
 
-    public HomePageObjects (WebDriver driver) {
+    public HomePageObjects(WebDriver driver) {
         this.driver = driver;
     }
 
@@ -29,5 +29,9 @@ public class HomePageObjects extends AbstractPage {
 
     public void clickToMyAccountButton() {
         clickToElement(driver, HomePageUI.MYACCOUNT_BUTTON);
+    }
+
+    public void clickToLogoutButton() {
+        clickToElement(driver, HomePageUI.LOGOUT_BUTTON);
     }
 }

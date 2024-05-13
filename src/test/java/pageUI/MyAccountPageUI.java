@@ -15,7 +15,19 @@ public class MyAccountPageUI {
     //Address
     public static final String ADDRESSES_BUTTON = "//a[text()='Addresses']";
     public static final String ADDNEW_BUTTON = "//button[@class='button-1 add-address-button']";
+
+    //Change Password
+    public static final String CHANGE_PASSWORD_BUTTON = "//a[text()='Change password']";
+    public static final String OLD_PASSWORD_TEXTBOX = "//input[@id='OldPassword']";
+    public static final String NEW_PASSWORD_TEXTBOX = "//input[@id='NewPassword']";
+    public static final String CONFIRM_PASSWORD_TEXTBOX = "//input[@id='ConfirmNewPassword']";
+    public static final String CHANGE_PASSWORD_SUBMIT_BUTTON = "//button[text()='Change password']";
+
+
+    public static final String LOGOUT_BUTTON = "//a[@class='ico-logout']";
+    public static final String FRAME_CLOSE = "//p[@class='content']/following-sibling::span";
 }
+
 
 
 

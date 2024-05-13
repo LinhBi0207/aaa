@@ -23,7 +23,7 @@ public class LoginPageObjects extends AbstractPage {
     }
 
     public void inputEmail(String email) {
-        waitToElementPresence(driver, LoginPageUI.EMAIL_TEXTBOX);
+
         sendkeyToElement(driver, LoginPageUI.EMAIL_TEXTBOX, email);
     }
 
@@ -39,7 +39,21 @@ public class LoginPageObjects extends AbstractPage {
         Assert.assertEquals(actual, expected);
    }
 
+    public void inputOldPassword(String password) {
+        sendkeyToElement(driver, LoginPageUI.PASSWORD_TEXTBOX, password);
     }
+
+    public void verifyOldPasswordErrorMessage(String expected) {
+        boolean errormessage = isControlDisplayed(driver, LoginPageUI.LOGIN_WAS_UNSUCCESSFULL_MESSAGE);
+        Assert.assertTrue(errormessage);
+        String actual = getTextElement(driver, LoginPageUI.LOGIN_WAS_UNSUCCESSFULL_MESSAGE);
+        Assert.assertEquals(actual, expected);
+    }
+
+    public void inputNewPassword(String newpassword) {
+        sendkeyToElement(driver, LoginPageUI.PASSWORD_TEXTBOX, newpassword);
+    }
+}
 
 
 
